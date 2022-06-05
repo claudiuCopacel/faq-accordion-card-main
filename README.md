@@ -1,5 +1,5 @@
 # Frontend Mentor - FAQ accordion card
-
+https://claudiucopacel.github.io/faq-accordion-card-main/
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
